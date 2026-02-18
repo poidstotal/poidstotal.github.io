@@ -164,6 +164,10 @@ a {
   mask-image: linear-gradient(to right, #000 0 45%, transparent 80%);
 }
 
+.print-only-contact {
+  display: none;
+}
+
 @media (max-width: 800px) {
   .layout {
     grid-template-columns: 1fr;
@@ -272,5 +276,9 @@ a {
   .sensitive-mask {
     -webkit-mask-image: none;
     mask-image: none;
+  }
+
+  .print-only-contact {
+    display: inline;
   }
 }
