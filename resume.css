@@ -158,6 +158,12 @@ a {
   text-underline-offset: 2px;
 }
 
+.sensitive-mask {
+  display: inline-block;
+  -webkit-mask-image: linear-gradient(to right, #000 0 45%, transparent 80%);
+  mask-image: linear-gradient(to right, #000 0 45%, transparent 80%);
+}
+
 @media (max-width: 800px) {
   .layout {
     grid-template-columns: 1fr;
@@ -261,5 +267,10 @@ a {
     color: var(--accent);
     text-decoration-thickness: 1px;
     text-underline-offset: 2px;
+  }
+
+  .sensitive-mask {
+    -webkit-mask-image: none;
+    mask-image: none;
   }
 }
