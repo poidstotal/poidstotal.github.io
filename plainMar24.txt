@@ -1,0 +1,115 @@
+Gilbert MONTCHO
+Data Scientist & Research Analyist
+
+Ottawa
+9713375357
+
+Experienced Research Analyst specializing in Labor and Demographic Economics, with extensive expertise in statistical programming. Holds an M.A. in Econometrics and a Ph.D. in Demography, with 10+ years of experience across industry and academia in multicultural environments.
+
+
+SOCIAL PROFILES
+* LinkedIn: https://www.linkedin.com/in/gilbertmosr/
+* SSRN: https://ssrn.com/author=4878430
+* Github: https://github.com/poidstotal
+* Stackoverflow: https://stackoverflow.com/users/6191452/gilbert-m
+
+LANGUAGES
+★★★★★ French
+★★★★★ English
+★★★★★ Chinese
+
+SKILLS
+★★★★★ Statistics & Econometrics: Proficient in OLS, GLS, IV regression, ARIMA, VAR, VECM, ARCH/GARCH, Difference-in-Differences (DiD), Panel Data, and  Propensity Score Matching.
+
+★★★★★ Machine Learning & Data Science: Expertise in Bootstrap Estimation, Decision Trees, Random Forest, Clustering, Principal Component Analysis (PCA), and Optimal Matching.
+
+★★★★☆ Statistical & Data Analytics Software: Extensive experience with R, Stata, Python, SAS, SPSS, Tableau, ArcGIS.
+
+★★★★☆ Web & Software Development: Proficient in HTML/CSS, MySQL, PHP, Ruby, JavaScript, Git, Shell Scripting, AWS, Apache, Magento, Drupal, Shopify, vsCode, and DevOps.
+
+★★★★☆ Project Management & Agile Methods: Experience in Planning & Budgeting, Risk Assessment, Scrum, Kanban, Gantt Charts, Performance Tracking, Jira, and ActiveCollab.
+
+★★★★☆ Research & Applied Economics: Specialized in Labor and Demographic Research topic including Population Aging, Worklife Duration, Labour Market Trends, Immigrant-Native Disparities, National Transfer Accounts, Retirement and Pension Systems, Income and Food Security, etc.
+
+★★★★☆ Behavioral & Soft Skills: Strong ability to collaborate in multicultural teams, communicate complex technical concepts, and maintain a gender-sensitive and non-discriminatory approach.
+
+WORK EXPERIENCE
+* Research Analyist: Employment and Social Develpment Canada (ESDC) | Sept 2024
+   • Investigated Factor of Food Insecurity in Canada from The Canadian Income Survey.
+   • Analysed the Impact of Early Retirement on Other Post Retirement Income Source, the GIS among others.
+
+* Research Analyst: Portland State University, USA | July 2022
+   • Developed an Equity Index Mapping Dashboard to support targeted policy interventions.
+   • Designed the AHUPS Web Survey for population estimates in Oregon.
+   • Created a Socio-Demographic Dashboard for Portland neighborhoods.
+
+* Lecturer in Economics: University of Ottawa, Canada | Since July 2023
+   • ECO1502: Introduction to Macroeconomics (Summer 2024) – 6-week intensive course.
+   • ECO2114: Labour & Population Economics (Winter & Summer 2023) – 13-week & 6-week courses.
+   • Delivered courses in BrightSpace, MS Teams, and in-person settings with 100+ students per session.
+
+* Lecturer in Demography: Université de Montréal, Canada | May – July 2019
+   • Taught DMO1000: Introduction to Demography – 3-week intensive course with 50+ students.
+
+* Teaching Assistant: Université de Montréal, Canada | Jan 2020 – Dec 2021
+   • Assisted in statistics and demography courses: marking, student support, and exam supervision.
+   • Received positive feedback leading to contract renewal.
+
+* Research Assistant: Université de Montréal, Canada | Sept 2018 – April 2022
+   • Data cleaning & analysis for Canada Census 1921 (PRDH) and population aging (ERVIPOP).
+   • Assisted teams with R & Stata and contributed to academic publications.
+
+* DevOps Architect & Scrum Master: StarByte, China | Jan – June 2021
+   • Led a 10-member team to develop a SaaS product under an Agile workflow.
+   • Integrated Docker, optimized KPIs, and contributed to backend (YII) & frontend (React).
+
+* Web Project Manager: Yeaoh Media, China | Aug 2011 – Aug 2015
+   • Managed 20+ projects, increasing profits by 30%.
+   • Improved employee retention to 70%+ annually.
+
+* Software Architect & Consultant: Symbio, China | July 2012 – Dec 2017
+   • Developed REST APIs (Drupal), managed Magento stores, and optimized workflows (CakePHP).
+
+* Web Developer: OSIC Software, China | Feb 2009 – July 2011
+   • Contributed to PHP, Drupal, and WordPress applications.
+   • Promoted to Team Leader within a year, leading KungfuEnglish development.
+
+
+
+EDUCATION
+* September 2016 – June 2022
+Université de Montréal, Montreal, Canada. PhD in Demography
+* September 2007 – December 2009
+Southwestern University of Finance and Economics (SWUFE), Chengdu, China. MA in Econometrics
+* September 2002 – December 2005
+Université d'Abomey-Calavi (UAC), Cotonou, Benin. BA in Planning And Spacial Management
+
+
+RESEARCH PROJECTS
+* Publication-Ready Articles, , 
+   • Population Aging and Work Life Duration in Canada. Published in Canadian Public Policy Volume 49 Issue S1, February 2023, pp. 32-47.
+   • Underemployment in an Aging Population: Evidence from the Canadian Labor Force Surveys. Available online on SSRN, abstract_id=3982009.
+   • Comparing Public Transfers between Immigrants and Natives: A National Transfer Accounts Application in Canada. Best Paper Prize 2023. Upcoming in the Journal of Poverty &amp;amp; Social Justice.
+   • A Dynamic Labor Utilization Framework for Measuring Underemployment. Available online on SSRN, abstract_id=3953837.
+   • Le vieillissement démographique et l’offre agrégée de travail : le cas du Canada de 1981 à 2016. Upcoming in Cahiers québécois de démographie.
+   • Living Longer and Delaying Retirement: What Is Fairness in a Context of Population Aging. Available online on SSRN, abstract_id=4339829.
+
+* Current Working Papers, 
+   • Determinants of Food Insecurity in Canada: A Marchine Learning Approach
+   • Effet Of Early Retirement on the Garanted Income Supplement in Canada
+   • How Accumulated Networth Affect Retirement Timing in Canada
+   • Measuring Over over-qualification in the United States
+   • Coping with Population Aging in Canada:  Learning from the Elders.
+   • How Reliable is the CDC/ATSDR Social Vulnerability Index?
+   • Comparing Underemployment in Canada and the United States.
+
+
+REFERENCES
+* Richard Archambault
+richard.archambault@hrsdc-rhdcc.gc.ca
+* Marcel Mérette from University of Ottawa
+mmerette@uottawa.ca 
+* Yves Carrère from University of Montreal
+yves.carriere@umontreal.ca
+* Ethan Sharygin from Portland State University
+sharygin@pdx.edu
